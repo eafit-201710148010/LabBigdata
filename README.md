@@ -1,6 +1,6 @@
 # LabBigdata
 en este espacio se incluye la evidencia del laboratorio de mrjob.
-Se escogió el numeral 2 
+Se escogió el siguiente ejercicio:
 2. Se tiene un conjunto de acciones de la bolsa, en la cual se reporta a diario el valor promedio por acción, la estructura de los datos es (archivo: dataempresas.csv):
 company,price,date
 
