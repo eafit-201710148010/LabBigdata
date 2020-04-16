@@ -7,8 +7,11 @@ Se escogió el siguiente ejercicio:
 company,price,date
 
 exito,77.5,2015-01-01
+
 EPM,23,2015-01-01
+
 exito,80,2015-01-02
+
 EPM,22,2015-01-02
 …
 Realizar un programa en Map/Reduce, con hadoop en Python, que permita calcular:
