@@ -24,7 +24,7 @@ Realizar un programa en Map/Reduce, con hadoop en Python, que permita calcular:
 
 3. DIA NEGRO: Saque el día en el que la mayor cantidad de acciones tienen el menor valor de acción (DESPLOME), suponga una inflación independiente del tiempo.
 
-la solución de los puntos se encuentra de la siguiente forma:
+La solución de los puntos se encuentra de la siguiente forma:
 
 Para el punto 1 ejecutar python mayor-menor.py companies.csv
 
